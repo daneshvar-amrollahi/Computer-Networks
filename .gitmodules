@@ -7,3 +7,6 @@
 [submodule "Routing-Protocols"]
 	path = Routing-Protocols
 	url = https://github.com/kymmt80/Routing-Protocols
+[submodule "GoBackN-Protocol"]
+	path = GoBackN-Protocol
+	url = https://github.com/kymmt80/GoBackN-Protocol
