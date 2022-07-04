@@ -4,3 +4,6 @@
 [submodule "ns2-simulation"]
 	path = ns2-simulation
 	url = https://github.com/daneshvar-amrollahi/ns2-simulation
+[submodule "Routing-Protocols"]
+	path = Routing-Protocols
+	url = https://github.com/kymmt80/Routing-Protocols
