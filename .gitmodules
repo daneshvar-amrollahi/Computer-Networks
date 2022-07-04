@@ -10,3 +10,6 @@
 [submodule "GoBackN-Protocol"]
 	path = GoBackN-Protocol
 	url = https://github.com/kymmt80/GoBackN-Protocol
+[submodule "Congestion-Avoidance"]
+	path = Congestion-Avoidance
+	url = https://github.com/daneshvar-amrollahi/Congestion-Avoidance
