@@ -1,3 +1,6 @@
 [submodule "FTP-Server"]
 	path = FTP-Server
 	url = https://github.com/daneshvar-amrollahi/FTP-Server
+[submodule "ns2-simulation"]
+	path = ns2-simulation
+	url = https://github.com/daneshvar-amrollahi/ns2-simulation
